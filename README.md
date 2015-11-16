@@ -1,2 +1,5 @@
 # Hello-World-
-Just a first test
+
+First go with GitHub, just trying some things out.
+
+Hope to do some real work soon.
